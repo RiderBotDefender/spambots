@@ -113,5 +113,5 @@ client.login(process.env.spam1);
 crys.login(process.env.spam2);
 shad.login(process.env.spam3);
 como.login(process.env.spam4);
-hero.login(process.env.spam5);
+here.login(process.env.spam5);
 sop.login(process.env.spam6);
