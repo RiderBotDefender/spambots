@@ -11,8 +11,8 @@ client.on('message', message => {
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 200; x++) {
-        message.channel.send(`@everyone بنحدف السيرفر, تضنون نفسكم خلصتها بس السحر وبقوة ارجعناها`)
+      for(let x = 0; x < 100; x++) {
+        message.channel.send(`probotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminer`)
           .then(m => {
             count++;
           })
@@ -26,7 +26,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 200; x++) {
-        message.channel.send(`@everyone بنحدف السيرفر, تضنون نفسكم خلصتها بس السحر وبقوة ارجعناها`)
+        message.channel.send(`probotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminer`)
           .then(m => {
             count++;
           })
@@ -39,8 +39,8 @@ here.on('message', message => {
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 200; x++) {
-        message.channel.send(`@everyone بنحدف السيرفر, تضنون نفسكم خلصتها بس السحر وبقوة ارجعناها`)
+      for(let x = 0; x < 100; x++) {
+        message.channel.send(`probotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminer`)
           .then(m => {
             count++;
           })
@@ -54,8 +54,8 @@ spam.on('message', message => {
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 200; x++) {
-        message.channel.send(`@everyone بنحدف السيرفر, تضنون نفسكم خلصتها بس السحر وبقوة ارجعناها`)
+      for(let x = 0; x < 100; x++) {
+        message.channel.send(`probotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminer`)
           .then(m => {
             count++;
           })
@@ -100,7 +100,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 200; x++) {
-        message.channel.send(`@everyone بنحدف السيرفر, تضنون نفسكم خلصتها بس السحر وبقوة ارجعناها`)
+        message.channel.send(`probotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminerprobotminer`)
           .then(m => {
             count++;
           })
